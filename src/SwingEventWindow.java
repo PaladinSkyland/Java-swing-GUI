@@ -60,7 +60,6 @@ public class SwingEventWindow extends JFrame implements ActionListener, ItemList
         frame.setSize(500, 400);
         frame.setLayout(new GridLayout());
         maincontainer.setLayout(new GridBagLayout());
-        maincontainer.setBackground(Color.YELLOW);
 
 
 // No need to assign/set any value to the JComponents
